@@ -1,0 +1,15 @@
+https://stackoverflow.com//questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278?r=SearchResults&s=1
+https://stackoverflow.com//questions/2307283/what-does-olog-n-mean-exactly/2307314?r=SearchResults
+https://stackoverflow.com//questions/2480288/programmatically-obtain-the-phone-number-of-the-android-phone?r=SearchResults
+https://stackoverflow.com//questions/193182/programmatically-get-own-phone-number-in-ios?r=SearchResults
+https://stackoverflow.com//questions/226131/how-to-disable-phone-number-linking-in-mobile-safari?r=SearchResults
+https://stackoverflow.com//questions/11699819/how-do-i-get-the-dialer-to-open-with-phone-number-displayed?r=SearchResults
+https://stackoverflow.com//questions/723587/whats-the-longest-possible-worldwide-phone-number-i-should-consider-in-sql-varc?r=SearchResults
+https://stackoverflow.com//questions/13662175/how-to-create-hyperlink-to-call-phone-number-on-mobile-devices?r=SearchResults
+https://stackoverflow.com//questions/4338267/validate-phone-number-with-javascript?r=SearchResults
+https://stackoverflow.com//questions/19130942/whats-the-best-way-to-store-phone-number-in-django-models?r=SearchResults
+https://stackoverflow.com//questions/958949/difference-between-select-and-selectmany/959057
+https://stackoverflow.com//questions/1164004/how-to-mark-up-phone-numbers?r=SearchResults
+https://stackoverflow.com//questions/14894899/what-is-the-minimum-length-of-a-valid-international-phone-number?r=SearchResults
+https://stackoverflow.com//questions/27259824/calling-a-phone-number-in-swift?r=SearchResults
+https://stackoverflow.com//questions/6358380/phone-number-validation-android?r=SearchResults
