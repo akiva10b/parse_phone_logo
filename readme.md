@@ -19,7 +19,7 @@ Or install locally using pip
 In the base folder there is a file called `urls.txt`, when running the script directly you can put in any file path you wish like so:
 
 ```bash
- docker run app /Users/akiva/PycharmProjects/urls.txt
+ python3 main.py /Users/akiva/PycharmProjects/urls.txt
 ```
 
 If you want to run on Docker, alter the file `urls.txt` and build the docker.
